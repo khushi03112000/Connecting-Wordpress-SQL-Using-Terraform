@@ -2,3 +2,7 @@ awscliv2.zip
 .terraform/
 *.tfstate
 *.zip
+awscliv2.zip
+.terraform/
+*.tfstate
+*.zip
